@@ -1,0 +1,6 @@
+framework module Pods_TinderFinance {
+  umbrella header "Pods-TinderFinance-umbrella.h"
+
+  export *
+  module * { export * }
+}
