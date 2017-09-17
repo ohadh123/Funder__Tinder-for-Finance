@@ -1,5 +1,5 @@
 # Funder: Tinder for Finance
-# Fall in love with Investing! 
+Fall in love with Investing! 
 Easy-to-use, risk-free investing app motivating high schoolers to learn more about finance by competing with friends
 
 # Cornell's BigRedHacks: Finalist Project and Winner of BNY Mellon FinTech Award!
