@@ -2,7 +2,7 @@
 Fall in love with Investing! 
 Easy-to-use, risk-free investing app motivating high schoolers to learn more about finance by competing with friends
 
-# Cornell's BigRedHacks: Prized as Finalist Project, and Sole Winner of BNY Mellon FinTech Award!
+# Cornell's 2017 BigRedHacks: Prized as Finalist Project, and Sole Winner of BNY Mellon FinTech Award!
 
 # Inspiration
 All the members of our group have an interest in finance, but we were never introduced to the subject until we came to college. According to the National Financial Educators Council, 83% of high school students believe that finance should be mandatory in schools. The average score of high schoolers on financial literacy test is a failing 58%. To help spread awareness and interest in finance among high schoolers, we decided to build an intuitive investing app that introduces students to an easier and fun version of the world of finance.
